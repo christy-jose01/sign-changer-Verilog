@@ -1,4 +1,4 @@
-# sign-changer-on-BASYS3-board
+# sign-changer-Verilog
 
 ## how to run
 1. Make sure Vivado is installed on your device
